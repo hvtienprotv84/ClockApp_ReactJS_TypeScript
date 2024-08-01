@@ -1,0 +1,15 @@
+{
+  "short_name": "Clock App",
+  "name": "BASIC CLOCK APP",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "500x500"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0F172A",
+  "background_color": "#ffffff"
+}
